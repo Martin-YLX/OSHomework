@@ -1,0 +1,4 @@
+- **Project Name**: OSTEP Homework Labs
+- **Completion Time**: 2025
+- **Course**: Operating Systems
+- **Software Used**: Clang, Python, Sublime Text
